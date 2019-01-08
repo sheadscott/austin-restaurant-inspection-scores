@@ -1,13 +1,9 @@
 import * as firebase from "firebase";
 import "firebase/auth";
 import "firebase/database";
+import { config } from "./config";:webkitCancelAnimationFrame
 
 export default (yelpId, facility_id, found) => {
-  var config = {
-    apiKey: "AIzaSyCVxuX3DkSqnRwirUfL-jGSj-sQOrt1v78",
-    authDomain: "atx-rest-inspect.firebaseapp.com",
-    databaseURL: "https://atx-rest-inspect.firebaseio.com"
-  };
 
   firebase.initializeApp(config);
 
