@@ -1,0 +1,26 @@
+.ri-wrapper {
+  margin-top: 1em;
+  clear: both;
+}
+
+.ri-btn {
+  background-color: blueviolet;
+  color: white;
+  margin-top: 0.5em;
+  padding: 5px 15px;
+  margin-right: 10px;
+}
+
+.ri-wrapper .score {
+  display: inline-block;
+  padding: 2px 8px;
+  border: solid 1px #333;
+  margin-left: 6px;
+  cursor: pointer;
+}
+
+.ri-wrapper .score:hover {
+  border: solid 2px blueviolet;
+  color: blueviolet;
+  padding: 1px 7px;
+}
