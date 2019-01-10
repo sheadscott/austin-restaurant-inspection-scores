@@ -4,9 +4,9 @@
 
 The City of Austin provides a [Restaurant Inspection Score Search](http://www.austintexas.gov/health/restaurant/search.cfm) on their website but it requires a consumer to navigate to the page and then fill out criteria for each restaurant they want to research. The data is returned in a table where there can be multiple inspection results for each location as well as multiple locations for chains like Thundercloud Subs.
 
-By creating a free browser extension for Yelp, inspection data can be placed where many people already look up restaurants. The data would be specific to the location and could be displayed in a simple format such as letter grades or an average of the last 3 scores with more granular data accessible through a link or popup.
+By creating a free browser extension for Yelp and possibly other sites that list restaurants, inspection data can be placed where many people already look up restaurants. The data would be specific to the location and could be displayed in a simple format such as letter grades or an average of the last 3 scores with more granular data accessible through a link or popup.
 
-There would be a companion website to display insights from the dataset of all inspections, such as average inspection score, how many inspections are performed each month, etc. The site would also highlight the important contribution restaurant inspections make to citizens' health and quality of life, as well as areas where the city could improve.
+There would be a companion website to display insights from the dataset of all inspections, such as average inspection score, how many inspections are performed each month, etc. The site would highlight the important contribution restaurant inspections make to citizens' health and quality of life, as well as areas where the city could improve.
 
 ### Who will benefit (directly and indirectly) from your project?
 
@@ -20,11 +20,15 @@ Yelp includes Health Score information
 
 ### Where can we find any research/data available/articles?
 
+This article provides a good analysis of the issues and links to a 2005 study about how health inspection scores rose after Los Angeles implemented an analog letter grade system.
+
 [Yelp adds health inspection scores for restaurants, and restaurateurs are not happy](https://www.washingtonpost.com/news/voraciously/wp/2018/07/24/yelp-adds-health-inspection-scores-for-restaurants-and-restaurateurs-are-not-happy/?noredirect=on&utm_term=.8cd6dba7fdeb)
 
 ### What help do you need now?
 
-Answer here.
+![Chrome Extension Screenshot](images/joes-bakery.png?raw=true "Joe's Bakery")
+
+I have a working
 
 ### What are the next steps (validation, research, coding, design)?
 
