@@ -26,7 +26,7 @@ This article provides a good analysis of the issues and links to a 2005 study ab
 
 ### What help do you need now?
 
-![Chrome Extension Screenshot](images/joes-bakery.png?raw=true "Joe's Bakery")
+<img src="https://raw.githubusercontent.com/sheadscott/austin-restaurant-inspection-scores/master/images/joes-bakery.png" title="Chrome Extension Screenshot" width="350" />
 
 I have a working
 
