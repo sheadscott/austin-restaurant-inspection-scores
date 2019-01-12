@@ -26,8 +26,6 @@ This article provides a good analysis of the issues and links to a 2005 study ab
 
 ### What help do you need now?
 
-![Chrome Extension Screenshot](images/joes-bakery.png?raw=true "Joe's Bakery")
-
 I have a working
 
 ### What are the next steps (validation, research, coding, design)?
