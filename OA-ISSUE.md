@@ -26,15 +26,22 @@ This article provides a good analysis of the issues and links to a 2005 study ab
 
 ### What help do you need now?
 
-I have a working
+I have a working Chrome Extension prototype that can be used on a local machine as seen in the screenshot below.
+<img src="https://raw.githubusercontent.com/sheadscott/austin-restaurant-inspection-scores/master/images/joes-bakery.png" title="Chrome Extension Screenshot" width="350" />
+
+I would like this to be a team project and need help with planning features, data analysis, design, and coding.
 
 ### What are the next steps (validation, research, coding, design)?
 
-Answer here.
+The first thing I would like to do is come up with a responsible method for scoring the restaurants. All of the data for a restaurant will be available with a click, but I think there should be a letter grade or some other system that let's users know at a glance what the sanitation record is without unfairly penalizing them for one poor score or other factors.
+
+The next priority would be the UI design, programming, and publishing of the Chrome Extension and the design and coding of a website with at least some basic information about the project and a few insights from the data.
+
+If the project has enough traction, we can look at coding extensions for Firefox, Safari, and IE.
 
 ### How can we contact you outside of Github(list social media or places you're present)?
 
-Answer here.
+[Facebook](https://www.facebook.com/sheadscott)
 
 ---
 
