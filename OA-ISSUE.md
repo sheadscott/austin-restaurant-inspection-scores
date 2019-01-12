@@ -16,7 +16,7 @@ Users of the browser extension and website will benefit directly by having conve
 
 Please see the first two paragraphs about why this is an improvement on the existing tool.
 
-Yelp includes Health Score information
+Yelp includes Health Score information from some cities already, but even if they were to start displaying it for Austin restaurants, users might prefer having it be more prominent, the methodology more transparent and having access to the full data available with a click.
 
 ### Where can we find any research/data available/articles?
 
